@@ -20,7 +20,7 @@
     echo $message.PHP_EOL;
     $message = "Year : $somenumber";
     echo $message.PHP_EOL;
-    ECHO "<bR>";
+    ECHO "<br>";
     echo "$message"." ".'$message'.PHP_EOL;
     
     ?>
