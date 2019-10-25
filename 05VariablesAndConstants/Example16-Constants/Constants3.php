@@ -1,0 +1,3 @@
+<?php
+define("1VERSION","7.3");
+echo 1VERSION; // CONSTANT NAME DON'T START WITH INTEGER
