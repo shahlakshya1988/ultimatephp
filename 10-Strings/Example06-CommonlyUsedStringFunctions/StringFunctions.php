@@ -38,3 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. A dolore eligendi enim
 TEXT;
 echo wordwrap($longtext,10);
 echo PHP_EOL;
+$content = "     Hello world     ";
+echo strlen($content);
+echo PHP_EOL;
+echo strlen(trim($content));
+echo PHP_EOL;
