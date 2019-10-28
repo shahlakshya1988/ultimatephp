@@ -43,3 +43,8 @@ echo strlen($content);
 echo PHP_EOL;
 echo strlen(trim($content));
 echo PHP_EOL;
+$content = "     Hello world     ";
+echo strlen($content);
+echo PHP_EOL;
+echo strlen(trim($content));
+echo PHP_EOL;
