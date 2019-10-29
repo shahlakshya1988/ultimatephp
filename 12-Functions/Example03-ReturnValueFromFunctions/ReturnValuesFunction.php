@@ -6,7 +6,7 @@
  *
  * }
  */
-declare(strict_type=1);
+declare(strict_types=1);
 function add(int $a,int $b) : int{
     return $a+$b;
     //return "Hello World"; //$a+$b;
