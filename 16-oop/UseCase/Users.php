@@ -14,7 +14,8 @@ class Users{
         // MAY BE RETURN TRUE OR FALSE OR SOME THING ELSE
     }
     function deleteUser($id):bool{
-
+        //DELETING THE RECORDS
+        // RETURN DATA OR TRUE/FALSE
     }
 }
 
